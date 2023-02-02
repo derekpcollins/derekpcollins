@@ -5,5 +5,5 @@ I'm Derek Collins and I'm currently a Product Designer & Prototyper at Netflix o
 You can find me around the web 🕸:
 
 * 📓 [Personal Website](https://derekpcollins.com)
-* 🐳 [Twitter](https://twitter.com/derekpcollins)
+* 🦣 [Mastodon](https://mastodon.design/@derek)
 * 💼 [LinkedIn](https://www.linkedin.com/in/derekpcollins)
